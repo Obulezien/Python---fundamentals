@@ -1,4 +1,5 @@
 # Simple Calculator
+# Percentage operator has been added
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -30,3 +31,4 @@ elif choice == "5":
         print("Error: Division by zero")
 else:
     print("Invalid choice")
+
